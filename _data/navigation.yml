@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "메뉴1"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "메뉴"
+    url: /WebTest/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
